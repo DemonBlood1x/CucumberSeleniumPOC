@@ -1,4 +1,4 @@
-package cucumberRun;
+package cucumberReportRun;
 
 import org.junit.runner.RunWith;
 import io.cucumber.junit.CucumberOptions;
